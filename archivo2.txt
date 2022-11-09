@@ -1,2 +1,4 @@
 Este es el nuevo archivo2 modificado
 añadido texto
+cosa nueva
+ora cosa nueva
